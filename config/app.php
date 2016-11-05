@@ -188,6 +188,8 @@ return [
         Arrilot\SystemCheck\ServiceProvider::class,
         MathiasGrimm\LaravelEnvValidator\ServiceProvider::class,
         Spatie\Tail\TailServiceProvider::class,
+
+        Padosoft\Laravel\Google\StructuredDataTestingTool\GoogleStructuredDataTestToolServiceProvider::class,
     ],
 
     /*
